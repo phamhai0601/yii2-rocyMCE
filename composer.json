@@ -41,6 +41,6 @@
 		"psr-4" : {
 			"navatech\\roxymce\\" : "src"
 		}
-	},
+	}
 
 }
