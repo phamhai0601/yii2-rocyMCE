@@ -10,7 +10,7 @@ composer require phamhai/yii2-roxymce "^2.0"
 ~~~
 Or add to `require` section of `composer.json` then run `composer update`
 ~~~
-"navatech/yii2-roxymce" : "^2.0" 
+"phamhai/yii2-roxymce" : "^2.0" 
 ~~~
 
 Configure & Usage
