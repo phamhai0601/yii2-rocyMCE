@@ -6,7 +6,7 @@ Install
 Preferred way to install this extension through [composer](http://getcomposer.org)  
 Either run
 ~~~
-composer require navatech/yii2-roxymce "^2.0"
+composer require phamhai/yii2-roxymce "^2.0"
 ~~~
 Or add to `require` section of `composer.json` then run `composer update`
 ~~~
